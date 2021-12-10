@@ -1,9 +1,9 @@
 ### What's up👋
 
 <ul>
-<li>-My name is Yaroslav.</li> 
-<li>-I am a 19 years old self-taught Python developer</li>
-<li>-I'm highly interested in IT and want to develope further as a developer in the future</li>
+  <li>My name is Yaroslav, I'm 19 years old student</li> 
+  <li>I'm highly interested in IT and want to develope further as a developer in the future</li>
+  <li>Always do something you enjoy</li>
 </ul>
 
 ### Have a nice day :cowboy_hat_face:
