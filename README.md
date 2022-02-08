@@ -6,6 +6,6 @@
   <li>Always do what you enjoy</li>
 </ul>
 
-### Have a nice day :cowboy_hat_face:
+### Have a nice day :)
 
 ![Gif](https://github.com/morento101/morento101/raw/main/dance.gif)
