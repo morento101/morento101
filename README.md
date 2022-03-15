@@ -2,7 +2,7 @@
 
 <ul>
   <li>My name is Yaroslav, I'm 19 years old student</li> 
-  <li>I'm highly interested in IT and want to develope further as a developer in the future</li>
+  <li>I'm highly interested in IT and want to develope further as a developer)))</li>
   <li>Always do what you enjoy</li>
 </ul>
 
