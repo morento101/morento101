@@ -1,5 +1,9 @@
-### What's up👋
+My name is Yaroslav, and I am a Python Full Stack Developer with 4 years of experience. I'm a responsible, goal-oriented, and curious Python Developer. I have robust Python and Django knowledge and a big passion for Docker, databases, FrontEnd, and Linux. I use GIT, Docker, Flask, Django, Scrum, and VPS services for creating websites and APIs in my daily workflow.
 
-I'm a responsible, goal-oriented, and curious Python Developer. I have robust Python and Django knowledge and a big passion for Docker, databases, FrontEnd, and Linux. I aim to work in a team of professionals to enhance my Soft and Hard Skills. I dream of developing high-loaded systems.
+Before writing the code, I study your project and your needs. My goal is to help you solve the tasks you've got.
 
-Recently, I finished my Python Internship at SoftServe, where I worked in a team of 9 members using Scrum methodology. We used Django Rest Framework, React.js, and AWS to create a system for searching for the nearest beauty salons, scheduling services, notifying clients about appointments, and providing an easy and intuitive way of organizing stuff for business owners with detailed statistics. For Agile work, I decided to set up CI/CD using AWS and GitHub. My primary responsibility was to deploy our project in production. Every day we had stand-ups to enhance our communication.
+My most outstanding qualities are good communication skills, hard-worker, clarity and accuracy in work, and willingness to always achieve the desired result for the customer. I quickly learn new tools and technologies and my mind is always open.
+
+In addition to my technical skills, I bring strong communication abilities, a collaborative mindset, and a high degree of responsibility and adaptability, making me an effective contributor to any project.
+
+I expect to study new technologies and best practices, deliver valuable results and be a part of a great team with shared interests and values. I'm open-minded and active, always ready to learn something new.
